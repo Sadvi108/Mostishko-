@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+.pnpm-store/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+.next/
+out/
+build/
+dist/
+
+# Database and Storage
+*.db
+*.sqlite
+qdrant_data/
+redis_data/
+data/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
