@@ -1,4 +1,4 @@
-Mostishko — Your Personal Second Brain, Running Locally
+Mostishko- Your Personal Second Brain, Running Locally
 
 Chat with your notes. Find connections. Generate insights. All offline.
 
