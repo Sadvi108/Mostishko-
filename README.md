@@ -15,7 +15,7 @@ Synthesis mode — Generate structured reports and summaries from scattered note
 🏗️ Architecture
 LayerTechnologyFrontendNext.js 14 (App Router), Tailwind CSS, shadcn/uiBackendFastAPI (Python 3.11), SQLAlchemyVector DBQdrant (self-hosted)Relational DBSQLite + FTS5 for hybrid searchLLM / EmbeddingsOllama (local) — nomic-embed-text + llama3Background JobsRedis + ARQGraph VizD3.js force-directedDeploymentDocker Compose — one command setup
 🚀 Quick Start
-bashgit clone https://github.com/yourusername/mostishko
+bashgit clone https://github.com/Sadvi108/Mostishko
 cd mostishko
 cp .env.example .env
 docker compose up --build
