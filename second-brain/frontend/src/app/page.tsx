@@ -151,7 +151,7 @@ export default function ChatPage() {
               <div className="h-20 w-20 bg-gradient-to-tr from-blue-600 to-purple-600 rounded-3xl flex items-center justify-center mb-6 shadow-2xl shadow-blue-500/20 rotate-3 hover:rotate-6 transition-transform">
                 <span className="text-4xl font-bold text-white">M</span>
               </div>
-              <h1 className="text-4xl font-bold bg-gradient-to-r from-white to-zinc-500 bg-clip-text text-transparent mb-3">Mostishko AI</h1>
+              <h1 className="text-4xl font-bold bg-gradient-to-r from-white to-zinc-500 bg-clip-text text-transparent mb-3">Mostishko</h1>
               <p className="max-w-md text-lg text-zinc-400">Your personal second brain. Ask questions, explore connections, and manage your knowledge.</p>
             </div>
           )}
